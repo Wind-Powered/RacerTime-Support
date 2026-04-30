@@ -38,9 +38,9 @@ You agree not to:
 
 ## 4. In-App Purchases and Subscriptions
 
-### 4.1 Pro Subscription
+### 4.1 Subscription
 
-The App offers a **Pro (Annual) subscription** ("RaceTimer Pro") that unlocks premium features. The subscription is billed annually and auto-renews unless cancelled at least 24 hours before the end of the current period.
+The App offers a **(Annual) subscription** ("RacerTime") that unlocks premium features. The subscription is billed annually and auto-renews unless cancelled at least 24 hours before the end of the current period.
 
 ### 4.2 Free Trial
 
