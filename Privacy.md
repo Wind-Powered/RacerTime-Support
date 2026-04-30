@@ -1,10 +1,10 @@
-# Privacy Policy — RaceTimer
+# Privacy Policy — RacerTime
 
 **Last updated:** April 29, 2026
 
 ## 1. Introduction
 
-RaceTimer ("the app", "we") is a race timing and session analysis application for water sports, developed by WindPowered. This privacy policy describes what data the app collects, how it is used, and how it is protected.
+RacerTime ("the app", "we") is a race timing and session analysis application for water sports, developed by WindPowered. This privacy policy describes what data the app collects, how it is used, and how it is protected.
 
 ---
 
