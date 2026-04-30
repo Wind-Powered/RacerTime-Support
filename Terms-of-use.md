@@ -1,13 +1,13 @@
 # End User License Agreement (EULA)
 
-**RaceTimer App**
+**RacerTime App**
 **Last updated: April 29, 2026**
 
 ---
 
 ## 1. Agreement to Terms
 
-This End User License Agreement ("Agreement") is a legal agreement between you ("User" or "you") and the developer of **RaceTimer** ("Developer", "we", "us", or "our"). By downloading, installing, or using the RaceTimer application (the "App"), you agree to be bound by the terms of this Agreement. If you do not agree to these terms, do not download or use the App.
+This End User License Agreement ("Agreement") is a legal agreement between you ("User" or "you") and the developer of **RaceTimer** ("Developer", "we", "us", or "our"). By downloading, installing, or using the RacerTime application (the "App"), you agree to be bound by the terms of this Agreement. If you do not agree to these terms, do not download or use the App.
 
 ---
 
