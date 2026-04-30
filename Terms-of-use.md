@@ -169,7 +169,7 @@ If you have any questions about this Agreement, please contact us at:
 
 **RaceTimer Developer**
 Email: unava001@gmail.com
-Website: [Insert your website here]
+Website: https://github.com/theEvilbyteS/RaceTimer-Support/blob/main/Support.md
 
 ---
 
