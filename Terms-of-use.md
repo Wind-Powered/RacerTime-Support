@@ -65,7 +65,7 @@ We reserve the right to change subscription prices at any time. You will be noti
 
 ## 5. Apple Watch App
 
-The App includes a companion Apple Watch application that extends certain features to your Apple Watch. Use of the Watch app is subject to the same terms of this Agreement. The Watch app requires an active Pro subscription to access all features.
+The App includes a companion Apple Watch application that extends certain features to your Apple Watch. Use of the Watch app is subject to the same terms of this Agreement. The Watch app requires an active subscription to access all features.
 
 ---
 
