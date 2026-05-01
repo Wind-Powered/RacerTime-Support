@@ -106,13 +106,13 @@ Since all data is stored locally on your device:
 
 Any updates to this policy will be published on this page with the date of the last update. Significant changes will be communicated through an app update on the App Store.
 
----f
+---
 
 ## 9. Contact
 
 If you have any questions about this privacy policy, you can reach us at:
 
 **Email:** unava001@gmail.com 
-**Desarrollador:** Ulises Navarro Ojeda
+**Desarrollador:** Ulises Navarro
 
 ---
