@@ -86,7 +86,7 @@ All billing is handled by Apple.
 
 ## 8. Intellectual Property
 
-The App and its content are owned by Ulises Navarro.
+The App and its content are owned by Developer.
 
 You may not copy, distribute, or modify any part of the App without permission.
 
@@ -126,7 +126,7 @@ Use of the App is at your own risk.
 
 ## 12. Indemnification
 
-You agree to indemnify and hold harmless Ulises Navarro from any claims arising from:
+You agree to indemnify and hold harmless Developer from any claims arising from:
 
 - Your use of the App  
 - Your activities while using the App  
@@ -164,7 +164,7 @@ https://github.com/Wind-Powered/RacerTime-Support/blob/main/Privacy.md
 ## 17. Apple-Specific Terms
 
 ### 17.1 Acknowledgement  
-This agreement is between you and Ulises Navarro, not Apple Inc.
+This agreement is between you and Developer, not Apple Inc.
 
 ### 17.2 Scope of License  
 License is non-transferable and limited to Apple devices you own.
