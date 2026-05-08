@@ -108,6 +108,8 @@ battery conditions,
 software issues,
 or external interference.
 
+Maneuver detection is continuously improving and may not always be fully accurate.
+
 Race calculations, buoy positioning, timing estimates, and performance metrics are provided on an “as is” and “as available” basis.
 
 ---
