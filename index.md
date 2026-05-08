@@ -13,4 +13,4 @@ RacerTime provides racing tools and post-race analysis features for sailing and 
 
 For support inquiries:
 
-contact@racertime.app
+unava001@gmail.com
