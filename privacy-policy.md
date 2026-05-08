@@ -173,5 +173,4 @@ Continued use of the App after changes become effective constitutes acceptance o
 
 For privacy or legal inquiries:
 
-Ulises Navarro
-Email: unava001@gmail.com
+Ulises Navarro - Email: unava001@gmail.com
