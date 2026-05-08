@@ -173,5 +173,5 @@ Continued use of the App after changes become effective constitutes acceptance o
 
 For privacy or legal inquiries:
 
-Wind Powered  
-Email: contact@racertime.app
+Ulises Navarro
+Email: unava001@gmail.com
