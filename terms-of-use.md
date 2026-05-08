@@ -110,6 +110,8 @@ or external interference.
 
 Maneuver detection is continuously improving and may not always be fully accurate.
 
+Analytics and maneuver detection accuracy may vary depending on conditions and device capabilities.
+
 Race calculations, buoy positioning, timing estimates, and performance metrics are provided on an “as is” and “as available” basis.
 
 ---
