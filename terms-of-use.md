@@ -239,8 +239,7 @@ Any disputes arising from this Agreement shall be subject to the jurisdiction of
 
 For questions regarding this Agreement, you may contact:
 
-Ulises Navarro
-Email: unava001@gmail.com
+Ulises Navarro - Email: unava001@gmail.com
 
 ---
 
